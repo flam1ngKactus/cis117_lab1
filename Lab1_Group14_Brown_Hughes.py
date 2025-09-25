@@ -16,7 +16,7 @@ if __name__ == "__main__":
             print("Okay, have a nice day!")
             break
         elif user_input == 1:
-            gg() # place holder for guessing game
+            gg() 
         elif user_input == 2:
             rps()
         else:
