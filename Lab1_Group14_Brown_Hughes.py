@@ -2,7 +2,7 @@ from rock_paper_scissors import play_rock_paper_scissors as rps
 from guessing_game import guessing_game as gg
 
 if __name__ == "__main__":
-    print("Hi Thaddeus!  Welcome to our GitHub Repository for Partner Lab 1 Collaboration")
+    print("Welcome to our CIS 117 Group 14's GitHub Repository for Partner Lab 1 Collaboration")
     while True:
         user_input = input("Which game would you like to play? Number Guessing Game (1) | Rock Paper Scissors (2) | NOTHING! I'M TIRED OF YOUR GAMES (0): ")
         
